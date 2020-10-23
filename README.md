@@ -4,6 +4,14 @@ This Jupyter notebook was created for the API section of the "Bioinformatics Res
 
 It provides a few simple examples showing how to use python to explore UniProt data programmatically, via the EBI [Proteins API](https://www.ebi.ac.uk/proteins/api/doc/).
 
+## Getting started
+
+The easiest way to use this notebook is to run it in the browser by clicking on the [Binder](https://mybinder.org/) button below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ehatton/exploring_uniprot_data_with_python/ce72dcc4b0276943cabfd6cf3b21945c7cae2328)
+
+If you want to run the notebook locally you will need to install python and other dependencies, please see the [Requirements](#requirements) section below for details.
+
 ## Requirements
 
 - python version 3.6 or above (the [Anaconda](https://www.anaconda.com/products/individual) distribution is recommended)
