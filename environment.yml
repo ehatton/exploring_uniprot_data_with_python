@@ -1,0 +1,7 @@
+name: exploring_uniprot_data_with_python
+channels:
+  - defaults
+dependencies:
+  - python>=3.7
+  - jupyterlab
+  - requests
