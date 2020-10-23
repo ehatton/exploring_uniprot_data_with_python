@@ -8,7 +8,11 @@ It provides a few simple examples showing how to use python to explore UniProt d
 
 The easiest way to use this notebook is to run it in the browser by clicking on the [Binder](https://mybinder.org/) button below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ehatton/exploring_uniprot_data_with_python/ce72dcc4b0276943cabfd6cf3b21945c7cae2328)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/ehatton-explori-ata_with_python-4odvwh74/notebooks/exploring_UniProt_data_with_python.ipynb)
+
+https://hub-binder.mybinder.ovh/user/ehatton-explori-ata_with_python-4odvwh74/notebooks/exploring_UniProt_data_with_python.ipynb
+
+https://mybinder.org/v2/gh/ehatton/exploring_uniprot_data_with_python/ce72dcc4b0276943cabfd6cf3b21945c7cae2328
 
 If you want to run the notebook locally you will need to install python and other dependencies, please see the [Requirements](#requirements) section below for details.
 
