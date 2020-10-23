@@ -10,7 +10,7 @@ It provides a few simple examples showing how to use python to explore UniProt d
 
 - [jupyterlab](https://jupyter.org/install) (if you have the Anaconda python distribution then this is installed by default)
 
-- [requests](https://requests.readthedocs.io/en/master/) 
+- [requests](https://requests.readthedocs.io/en/master/)
 
 ## Author
 
