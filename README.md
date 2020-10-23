@@ -18,4 +18,4 @@ Emma Hatton-Ellis – ehattonellis@gmail.com
 
 ## License
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
+Distributed under the Apache 2.0 license. See ``LICENSE`` for more information.
